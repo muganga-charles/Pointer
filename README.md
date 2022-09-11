@@ -1,4 +1,4 @@
-# Pointer
+# Pointer<br />
 The "two number arithmetic.c" file creates an array and then stores two values inside that array.<br />
 The program then arrows a user to enter any arithmetic they would want to work with,<br />
 The program users functions to work with diffrent arithmetic operations.<br />
